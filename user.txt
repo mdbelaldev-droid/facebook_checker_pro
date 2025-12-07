@@ -1,9 +1,7 @@
 BIJOY,mondolbijy55@gmail.com,01624836178,WIN_b5fc5ebc-55b4-48bd-8cc4-b96e8f96c523,2026-12-08,false
 rexa,ssfarhad720@gmail.com,01643028679,WIN_43e7df2e-eab3-48c5-a5cc-8770e1a1d8b2,2032-01-10,false
-Main Admin,admin@aniksoft.com,01840441301,WIN_ed8a5d79-9ffa-4e39-bd84-6648cf1a9a44,2027-07-08,false
 akash,tanim31748697@gmail.com,01779616192,WIN_09e8038b-4d78-44a9-8013-0c1b5a987cf2,2025-12-15,false
 mohsin reza,rjmohsin104@gmail.com,01955169605,WIN_8d1f5c74-da64-4aa7-a863-d155fce0612e,2025-12-08,false
-Main Admin,mainadmin@aniksoft.com,01778136925,WIN_cf76bab9-508f-43e3-90a1-814eae98c9a4,2028-06-08,false
 AKASH,akash112233445684@gmail.com,01737554384,34D7AF50-F8ED-4876-B77A-  AAE8630F877B,2025-12-08,false
 MST ASMA,mnoorzamal8@gmail.com,01750454891,WIN_0194de99-d6e7-4606-b765-2bf28059503c,2025-12-08,false
 HRIDOY,hridoysardar018@gmail.com,01878224495,WIN_50753078-8935-4965-b5d8-4a774142cc05,2025-12-08,false
