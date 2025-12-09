@@ -33,3 +33,4 @@ joy,rupajoy14@gmail.com,01307073675,WIN_b033df88-98e0-4dd1-951e-ac63f255748f,202
 Anik Hossen,anikim542@gmail.com,01778136945,WIN_e714828e-234f-4174-bffb-1c3f0957e708,2025-12-30,false
 md golam rabbani,ra01717398169@gmail.com,01717398169,WIN_145da75d-3353-4d3a-8a38-831e052007a2,2025-12-10,false
 Md Abdullah Abu Sayed,mymonakakole272@gmail.com,01730639678,WIN_d326623e-9677-4b9f-b36a-8f62ebeba1be,2025-12-11,false
+Riasad Khan,riasadkhan78@gmail.com,01648372201,WIN_67a34e3a-3d83-498d-afda-52a1d2281a81,2025-12-16,false
