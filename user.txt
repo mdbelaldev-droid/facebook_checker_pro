@@ -8,7 +8,7 @@ HRIDOY,hridoysardar018@gmail.com,01878224495,WIN_50753078-8935-4965-b5d8-4a77414
 eamin,eamineamin6600@gmail.com,01842506825,f6642a2d-ac58-4b83-b322-cb10f438f92e,2025-12-10,false
 molla,eamineamin1100@gmail.com,01606988513,WIN_f6642a2d-ac58-4b83-b322-cb10f438f92e,2025-12-10,false
 Turzo Roy,turzoroy0000@gmail.com,01996878608,WIN_a0ffcb80-cc2b-44ba-873d-50c110de0e01,2025-12-30,false
-mal,malcalu@gmail.com,01515621963,WIN_8b2fc755-79c4-47fb-93e5-49fcaa3fd642,2025-12-09,false
+mal,malcalu@gmail.com,01515621963,WIN_8b2fc755-79c4-47fb-93e5-49fcaa3fd642,2025-12-30,false
 Md Aminur Rahman,aminurrahmanrazin@gmail.com,01585954197,WIN_0c8ce20e-8dbe-42c4-8742-868444338e86,2025-12-30,false
 Nurain Hossain,nurainm835@gmail.com,01797726073,WIN_c7bcd639-468e-43ea-ad16-a3d90739121b,2025-12-30,false
 Jehad Ahmed,jehad7445@gmail.com,01637920980,WIN_94d48f34-4618-49ff-b568-386aaab400c2,2025-12-30,false
