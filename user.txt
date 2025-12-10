@@ -39,3 +39,4 @@ golontaj,farim145443@gmail.com,01933718492,EFCAD9EA-A48E-4C66-A282-E56ED6FEEA0F,
 md,oystercatcher008@pixoledge.net,habib,hg,2025-12-17,false
 BIJOY,mondolbijoy55@gmail.com,01797433255,WIN_c1e3ea6a-8aef-4ccb-8749-7c147750d833,2025-12-17,false
 md ebrahim,ebrahim818340@gmail.com,01779623822,WIN_6265d3d1-2663-4786-a8f3-3dc3f5711d91,2025-12-17,false
+Mahmud Hassan Murad,chapa0187@gmail.com,01762141530,WIN_4c9113b7-107f-42e0-b69f-eb8bdd07f6f7,2025-12-17,false
