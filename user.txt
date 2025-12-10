@@ -37,3 +37,4 @@ Anik Hossen,anik@gmai.com,01840441301,WIN_cf76bab9-508f-43e3-90a1-814eae98c9a4,2
 Nayeem,mdrabby.mr30@gmail.com,01576487454,WIN_16e76e94-7fd9-4594-8de7-cf8d11170098,2025-12-16,false
 golontaj,farim145443@gmail.com,01933718492,EFCAD9EA-A48E-4C66-A282-E56ED6FEEA0F,2025-12-16,false
 md,oystercatcher008@pixoledge.net,habib,hg,2025-12-17,false
+BIJOY,mondolbijoy55@gmail.com,01797433255,WIN_c1e3ea6a-8aef-4ccb-8749-7c147750d833,2025-12-17,false
