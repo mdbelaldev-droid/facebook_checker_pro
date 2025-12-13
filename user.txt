@@ -48,3 +48,4 @@ md eamin,eamineamin5500@gmail.com,01345660976,WIN_4a1c5454-2523-44a9-99b8-d79e79
 md monir,mdmonir47724535@gamil.com,01602237915,WIN_d5b597de-dd07-4bbf-84c6-fd04062d7d14,2025-12-19,false
 faruq hossan,faruqhossan281@gmail.com,01741952084,WIN_f4b40963-777a-48ac-8d03-f0b056db5f68,2025-12-19,false
 MD ABIR HOSSAIN,aminulislam546321@gmail.com,01839716108,WIN_b16f58c1-4881-4196-8e38-f4d5e4c96c90,2025-12-19,false
+Naim,freelancernaim2012@gmail.com,Islam,WIN_8483acf0-d43b-40ef-ae43-ca9fb946d49e,2025-12-20,false
