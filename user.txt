@@ -53,3 +53,4 @@ NS Twnis,nstwinsxyz@gmail.com,01568550380,WIN_ae268dd9-5345-4ee2-9689-cf982d0d9c
 Ahmed Nerob,efatrafel44@gmail.com,01996550596,WIN_01d095c0-e56a-49ad-9967-e9a1c3b594d7,2025-12-20,false
 siyam mahamud,gpxr15gsxr2@gmail.com,01334052119,WIN_90357539-dc74-40ec-a324-dea2eaea5a19,2025-12-20,false
 Monoj,monojroy728@gmail.com,01568368718,WIN_9afb233a-d142-41b2-bb73-734117ae314b,2025-12-21,false
+Azijul,azijulmondol5@gmail.com,mondol,WIN_e909cc25-8ef9-4272-a490-e11618920545,2025-12-21,false
