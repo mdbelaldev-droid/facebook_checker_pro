@@ -76,3 +76,4 @@ shuvo,fghjhgfjkdu@gmail.com,01985653525,WIN_712d130c-4d33-44f9-a40b-f1130a8702a3
 kawsar,kawsarulislam8@gmail.com,01883701033,WIN_53894770-43e1-4406-b4f2-2f80f8816a15,2025-12-23,false
 Antu,pcemail035@gmail.com,018227543131,WIN_e9c72b91-f4bd-4738-a3f2-6bfbb1280940,2025-12-23,false
 abir khan,mahdiyaramiriamir255@gmail.com,01714767687,mahdiyaramiriamir255@gmail.com,2025-12-23,false
+ASIF,faysalahmmad666@gmail.com,KHAN,WIN_57d6151b-06e3-4249-b2e7-ef757a2b67d9,2025-12-23,false
