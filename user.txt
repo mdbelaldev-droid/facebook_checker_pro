@@ -80,3 +80,4 @@ ASIF,faysalahmmad666@gmail.com,KHAN,WIN_57d6151b-06e3-4249-b2e7-ef757a2b67d9,202
 khan,giig76074@gmail.com,01720620578,WIN_f2d5ef7d-7f15-496d-af86-b629197dc1aa,2025-12-23,false
 Mustak,roxmustak10@gmail.com,01604822899,WIN_cf845027-b298-4938-a261-3f520e54ce13,2025-12-23,false
 akash,akashonfire59@gamil.com,01932432342,WIN_bac7e9a9-d1b9-4372-9f4c-973aa8ea720a,2025-12-24,false
+Shirajul,shirajulanikal20@gmail.com,01798480053,WIN_36e8af56-b474-435f-b0df-5919ee407815,2025-12-25,false
